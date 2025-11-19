@@ -1,10 +1,9 @@
 # 🎬 Production Audiovisuelle : Grand Marché de Lomé
-
-<img src="./Contexte_du_devoir.png" alt="Contexte_du_devoir.png"> <br>
-
 Ce dépôt contient le projet de production audiovisuelle réalisé dans le cadre du **Programme D-CLIC OIF** en Marketing Numérique.
 
 Il s'agit d'un **spot vidéo** mettant en valeur le **Grand Marché de Lomé** (Togo), avec une méthodologie complète de conception, de production et de diffusion web .
+
+<img src="./Contexte_du_devoir.png" alt="Contexte_du_devoir.png"> <br>
 
 ----
 
