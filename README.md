@@ -8,7 +8,7 @@ Il s'agit d'un **spot vidéo** mettant en valeur le **Grand Marché de Lomé** (
 
 ----
 
-### ✨ Points Forts du Projet & Compétences
+### Points Forts du Projet & Compétences
 
 * **Marketing Numérique & Contenu** : Application des principes de production et de diffusion de contenus adaptés au web.
 * **Scénarisation & Montage** : Conception d'un scénario détaillé (séquences d'ouverture, exploration, conclusion) et réalisation du montage à l'aide de **Canva Pro**.
@@ -20,7 +20,7 @@ Il s'agit d'un **spot vidéo** mettant en valeur le **Grand Marché de Lomé** (
 
 ### 🔗 Lien vers la Vidéo Déployée
 
-👉 [![Vidéo Déployée](https://img.shields.io/badge/Video-%20Déployée-brightgreen)](https://adjagbafortune.github.io/production-audio-visuelle-oif/)
+[![Vidéo Déployée](https://img.shields.io/badge/Video-%20Déployée-brightgreen)](https://adjagbafortune.github.io/production-audio-visuelle-oif/)
 
 ---
 
